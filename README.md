@@ -88,3 +88,7 @@ public class PDFDisplay extends JComponent{
 	}
 }
 
+Licenses
+-------
+Pdf-renderer: [LGPL-2.1](https://java.net/projects/pdf-renderer)
+MultiShow: [Creative Commons BY 3.0 license terms](http://www.randelshofer.ch/multishow/doc/license.html)
