@@ -28,7 +28,7 @@ import java.nio.ByteBuffer;
 
 import javax.swing.ImageIcon;
 
-import ch.randelshofer.media.jpeg.JPEGImageIO;
+import org.monte.media.jpeg.JPEGImageIO;
 
 import com.sun.pdfview.PDFObject;
 import com.sun.pdfview.PDFParseException;
